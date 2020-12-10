@@ -3,19 +3,19 @@ body{
 }
 main 
 {
-    width: 70%;
+    width: 90%;
     margin : 20px auto;
     border : 1px solid blue;
     padding: 20px;
-    background-color: burlywood;
+    background-color:darkred;
 }
 h2{
     margin-top: 0;
-    color: darkmagenta;
+    color: chocolate;
 }
 .encabezado
 {
-    background-color: darkred;
+    background-color: blueviolet;
     color: burlywood;
     padding: 20px;
     margin-bottom: 20px;
