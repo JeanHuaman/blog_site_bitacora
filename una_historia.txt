@@ -1,3 +1,9 @@
 Hola mi nombre es Jean Huaman
 
-Soy su profesor de desarrollo web :D
+Soy su profesor de git y github :D
+
+Me gustan las clases remotas y virtuales
+
+Hola mundo
+
+Me gusta el invierno.
