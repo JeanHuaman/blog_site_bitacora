@@ -1,11 +1,7 @@
 Hola mi nombre es Jean Huaman
 
-Soy su profesor de git y github :D
+Soy su profesor de desarrollo web :D
 
-Me gustan las clases remotas y virtuales
+Hola mundo, el perro de la casa se llama Theo.
 
-Hola mundo
-
-Me gusta el invierno.
-
-Me gusta las menestras y la pizza
+Me encanta jugar con él.
