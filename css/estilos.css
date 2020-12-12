@@ -25,3 +25,15 @@ h2{
 h3{
     color: crimson;
 }
+footer{
+color: white;
+padding: 10px;
+background-color:#393939 ;
+font-style: normal;
+box-shadow:  0 0 10px yellow;
+border-radius: 10px;
+}
+.footer_p
+{
+
+}
